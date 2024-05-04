@@ -23,8 +23,7 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: 212223240078
 RegisterNumber:  Logesh.N.A
 */
-
-
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -105,7 +104,7 @@ xnew=np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 
 print(y_prednew)
-
+```
 ## Output:
 ### Read the file and display
 ![image](https://github.com/amal-2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148410730/1f016359-1822-4e61-a4bd-2e42b29b2193)
